@@ -84,37 +84,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/zonas-comunes/</loc>
-		<lastmod>2024-06-24T14:48:46+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/piscina_noche_003_RiverPark.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/iconmed-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/iconmed-4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/iconmed-7.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/iconmed-6.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/iconmed-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/iconmed-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/iconmed-5.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/gym.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/avance-de-obra/</loc>
 		<lastmod>2024-06-24T14:55:59+00:00</lastmod>
 		<image:image>
@@ -351,6 +320,37 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/Apto_T-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/zonas-comunes/</loc>
+		<lastmod>2024-07-09T16:42:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/piscina_noche_003_RiverPark.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/iconmed-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/iconmed-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/iconmed-7.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/iconmed-6.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/iconmed-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/iconmed-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/iconmed-5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/gym.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
