@@ -122,3 +122,16 @@ body.page-id-6805 .popup-agendacita {
 body.page-id-6805 .trx_addons_scroll_to_top.show {
     opacity: 0;;
 }/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Big Caslon CC';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('/wp-content/uploads/2024/06/AnyConv.com__fonnts.com-Big_Caslon_CC_Italic.eot');
+	src: url('/wp-content/uploads/2024/06/AnyConv.com__fonnts.com-Big_Caslon_CC_Italic.eot#iefix') format('embedded-opentype'),
+		url('/wp-content/uploads/2024/06/AnyConv.com__fonnts.com-Big_Caslon_CC_Italic.woff2') format('woff2'),
+		url('/wp-content/uploads/2024/06/AnyConv.com__fonnts.com-Big_Caslon_CC_Italic.woff') format('woff'),
+		url('/wp-content/uploads/2024/06/AnyConv.com__fonnts.com-Big_Caslon_CC_Italic.ttf') format('truetype'),
+		url('/wp-content/uploads/2024/06/AnyConv.com__fonnts.com-Big_Caslon_CC_Italic.svg#BigCaslonCC') format('svg');
+}
+/* End Custom Fonts CSS */
